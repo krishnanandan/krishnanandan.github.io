@@ -63,14 +63,14 @@
                         &#x2618;&nbsp;Donating in orphan / old age centers<br/>
                     </p>
                     <br/>
-                    <h3 class="subtitle">we'll be ready very soon</h3>
+                    <h3 style="color:white" class="subtitle">we'll be ready very soon</h3>
                     <br/>
              
-                    <form class="form-inline validate signup" action=" method="get" role="form">
+                    <form id="form_subscribe" class="form-inline validate signup" action="" method="get" role="form">
                         <div class="form-group">
-                            <input type="email" class="form-control" name="EMAIL" id="exampleInputEmail1" placeholder="Enter your email address">
+                            <input type="email" class="form-control" name="EMAIL" id="form_email_subscribe" placeholder="Enter your email address">
                         </div>
-                        <input type="submit" name="subscribe" value="Get notified!" class="btn btn-theme">
+                        <input id="subs_btn" type="submit" name="subscribe" value="Get notified!" class="btn btn-theme">
                     </form>
                     <br/>
                 </div>
@@ -99,48 +99,63 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script>
+
+    <script type="text/javascript" src="assets/js/jquery.jqgoogleforms.js"></script>
+
     <script>
-        
-$(document).ready( function () {
-    $('#wrapper').height($(document).height());
-    // I only have one form on the page but you can be more specific if need be.
-    var $form = $('form');
 
-    if ( $form.length > 0 ) {
-        $('form input[type="submit"]').bind('click', function ( event ) {
-            if ( event ) event.preventDefault();
-            // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
-            if ( $form.validate() ) { register($form); }
-        });
-    }
-});
+        $(document).ready( function () {
+            $('#wrapper').height($(document).height());
+            // I only have one form on the page but you can be more specific if need be.
+            var $form = $('form');
 
-function appendResult(userText , className, iconClass){
-  var resultHTML = "<div class='stretchLeft result "+ className + "'>" + userText + " <span class='fa fa-" + iconClass + "'></span>" + "</div>";
-  $('body').append(resultHTML);
-  $('.result').delay(10000).fadeOut('1000');
-}
-
-
-function register($form) {
-    $.ajax({
-        type: $form.attr('method'),
-        url: $form.attr('action'),
-        data: $form.serialize(),
-        cache       : false,
-        dataType    : 'json',
-        contentType: "application/json; charset=utf-8",
-        error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
-        success     : function(data) {
-            if (data.result != "success") {
-                appendResult('Wrong Email Or You Are Already Registered, Try Again', 'error', 'exclamation');
-            } else {
-                // It worked, carry on...
-                appendResult('Successful, Check Your Email For Confirmation ', 'success', 'check');
+            if ( $form.length > 0 ) {
+                $('form input[type="submit"]').bind('click', function ( event ) {
+                    if ( event ) event.preventDefault();
+                    // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
+                    if ( $form.validate() ) { register($form); }
+                });
             }
+        });
+
+        function appendResult(userText , className, iconClass){
+          var resultHTML = "<div class='stretchLeft result "+ className + "'>" + userText + " <span class='fa fa-" + iconClass + "'></span>" + "</div>";
+          $('body').append(resultHTML);
+          $('.result').delay(10000).fadeOut('1000');
         }
-    });
-}
+
+
+        function register($form) {
+
+            var googleForm = $(window).jqGoogleForms({"formKey": "1UTEmp1nyo9mqXq0CwO9hI6tDoKc5DBuAi-gw2AikDQI"});
+            googleForm.sendFormData({
+                "entry.1210971178": $('#form_email_subscribe').val()
+            });
+            setTimeout(function(){
+                $( '#form_subscribe' ).each(function(){
+                    this.reset();
+                });
+                alert('Thank you. You have been subscribed to Krishna Nandan.');
+            }, 800);
+
+        /*    $.ajax({
+                type: $form.attr('method'),
+                url: $form.attr('action'),
+                data: $form.serialize(),
+                cache       : false,
+                dataType    : 'json',
+                contentType: "application/json; charset=utf-8",
+                error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
+                success     : function(data) {
+                    if (data.result != "success") {
+                        appendResult('Wrong Email Or You Are Already Registered, Try Again', 'error', 'exclamation');
+                    } else {
+                        // It worked, carry on...
+                        appendResult('Successful, Check Your Email For Confirmation ', 'success', 'check');
+                    }
+                }
+            });*/
+        }
     </script>
 
 </body>
