@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa4daea0-0671-4b4a-82d1-0b400747c621" name="Default" comment="" />
-    <ignored path="web.iws" />
+    <list default="true" id="9cf23a67-afa8-451c-add2-25fb68a25ebd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg - Copy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/style.css" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\activities.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\css\chocolat.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\css\owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\css\swipebox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\events.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\3a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ac1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ac2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\act.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\act1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ba1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\blu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ev.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ev1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ev2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\ev3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\img-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\logo1 - Copy.PNG" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\pi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\pi1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\pi2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\pi3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\pin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\images\plus.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\js\jquery.chocolat.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\js\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\js\jquery.swipebox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\js\owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\kn\krishnanandan.github.io\js\responsiveslides.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\kn\krishnanandan.github.io\.idea\web.iml" afterPath="$PROJECT_DIR$/.idea/krishnanandan.github.io.iml" />
+      <change type="MOVED" beforePath="D:\kn\krishnanandan.github.io\images\4.jpg" afterPath="$PROJECT_DIR$/images/bg.jpg" />
+    </list>
+    <ignored path="krishnanandan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,30 +74,25 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="web" />
+    <favorites_list name="krishnanandan.github.io" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54953915" vertical-offset="1512" max-vertical-offset="4250">
-              <caret line="117" column="60" selection-start-line="117" selection-start-column="60" selection-end-line="117" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.4708455" vertical-offset="0" max-vertical-offset="697">
+              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4216868" vertical-offset="1276" max-vertical-offset="2278">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="106" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2956" max-vertical-offset="3672">
+              <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -55,9 +105,13 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/tools/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -66,7 +120,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -99,13 +153,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="krishnanandan.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="krishnanandan.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -115,7 +169,21 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="krishnanandan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krishnanandan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krishnanandan.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -141,33 +209,33 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa4daea0-0671-4b4a-82d1-0b400747c621" name="Default" comment="" />
-      <created>1474228558185</created>
-      <updated>1474228558185</updated>
+      <changelist id="9cf23a67-afa8-451c-add2-25fb68a25ebd" name="Default" comment="" />
+      <created>1476016919497</created>
+      <updated>1476016919497</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23076923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -190,37 +258,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/tools/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3225" max-vertical-offset="4080">
-          <caret line="227" column="49" selection-start-line="227" selection-start-column="49" selection-end-line="227" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4216868" vertical-offset="1276" max-vertical-offset="2278">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="106" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2956" max-vertical-offset="3672">
+          <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54953915" vertical-offset="1512" max-vertical-offset="4250">
-          <caret line="117" column="60" selection-start-line="117" selection-start-column="60" selection-end-line="117" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.4708455" vertical-offset="0" max-vertical-offset="697">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
